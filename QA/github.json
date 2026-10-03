@@ -1,0 +1,221 @@
+{
+  "checks": [
+    {
+      "name": "guide is homepage",
+      "ok": true
+    },
+    {
+      "name": "guide completion persists",
+      "ok": true
+    },
+    {
+      "name": "prerequisite 0",
+      "ok": true
+    },
+    {
+      "name": "prerequisite 1",
+      "ok": true
+    },
+    {
+      "name": "prerequisite 2",
+      "ok": true
+    },
+    {
+      "name": "guide launches example 4",
+      "ok": true
+    },
+    {
+      "name": "five extension topics",
+      "ok": true
+    },
+    {
+      "name": "budget 80 optimum",
+      "ok": true
+    },
+    {
+      "name": "budget 87 optimum",
+      "ok": true
+    },
+    {
+      "name": "budget saturation",
+      "ok": true
+    },
+    {
+      "name": "integer optimum 10",
+      "ok": true
+    },
+    {
+      "name": "continuous optimum 10.5",
+      "ok": true
+    },
+    {
+      "name": "capacity recomputes",
+      "ok": true
+    },
+    {
+      "name": "multiple optima",
+      "ok": true
+    },
+    {
+      "name": "unique optimum",
+      "ok": true
+    },
+    {
+      "name": "restore multiple",
+      "ok": true
+    },
+    {
+      "name": "bounded",
+      "ok": true
+    },
+    {
+      "name": "unbounded",
+      "ok": true
+    },
+    {
+      "name": "infeasible",
+      "ok": true
+    },
+    {
+      "name": "strict",
+      "ok": true
+    },
+    {
+      "name": "strict boundary dashed",
+      "ok": true
+    },
+    {
+      "name": "optimal shipping",
+      "ok": true
+    },
+    {
+      "name": "shipping shortage rejected",
+      "ok": true
+    },
+    {
+      "name": "shipping excess rejected",
+      "ok": true
+    },
+    {
+      "name": "best allocation restored",
+      "ok": true
+    },
+    {
+      "name": "sensitivity challenge correct",
+      "ok": true
+    },
+    {
+      "name": "integer challenge correct",
+      "ok": true
+    },
+    {
+      "name": "multiple challenge correct",
+      "ok": true
+    },
+    {
+      "name": "status challenge correct",
+      "ok": true
+    },
+    {
+      "name": "transport challenge correct",
+      "ok": true
+    },
+    {
+      "name": "guide log visible",
+      "ok": true
+    },
+    {
+      "name": "challenge log visible",
+      "ok": true
+    },
+    {
+      "name": "390 guide no overflow",
+      "ok": true
+    },
+    {
+      "name": "390 sensitivity no overflow",
+      "ok": true
+    },
+    {
+      "name": "390 integer no overflow",
+      "ok": true
+    },
+    {
+      "name": "390 multiple no overflow",
+      "ok": true
+    },
+    {
+      "name": "390 status no overflow",
+      "ok": true
+    },
+    {
+      "name": "390 transport no overflow",
+      "ok": true
+    },
+    {
+      "name": "820 guide no overflow",
+      "ok": true
+    },
+    {
+      "name": "820 sensitivity no overflow",
+      "ok": true
+    },
+    {
+      "name": "820 integer no overflow",
+      "ok": true
+    },
+    {
+      "name": "820 multiple no overflow",
+      "ok": true
+    },
+    {
+      "name": "820 status no overflow",
+      "ok": true
+    },
+    {
+      "name": "820 transport no overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 guide no overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 sensitivity no overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 integer no overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 multiple no overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 status no overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 transport no overflow",
+      "ok": true
+    },
+    {
+      "name": "English guide",
+      "ok": true
+    },
+    {
+      "name": "English extension",
+      "ok": true
+    },
+    {
+      "name": "26 question bank",
+      "ok": true
+    },
+    {
+      "name": "no browser errors",
+      "ok": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,165 @@
+{
+  "checks": [
+    {
+      "name": "initial graph",
+      "ok": true
+    },
+    {
+      "name": "example 4 optimum 9",
+      "ok": true
+    },
+    {
+      "name": "oil 297.143",
+      "ok": true
+    },
+    {
+      "name": "alloy 32",
+      "ok": true
+    },
+    {
+      "name": "profit 1100",
+      "ok": true
+    },
+    {
+      "name": "multiple optima",
+      "ok": true
+    },
+    {
+      "name": "origin in halfplane",
+      "ok": true
+    },
+    {
+      "name": "origin outside",
+      "ok": true
+    },
+    {
+      "name": "animation changes k",
+      "ok": true
+    },
+    {
+      "name": "lesson recorded",
+      "ok": true
+    },
+    {
+      "name": "practice explanation",
+      "ok": true
+    },
+    {
+      "name": "random explanation",
+      "ok": true
+    },
+    {
+      "name": "unanswered guard",
+      "ok": true
+    },
+    {
+      "name": "quiz ten explanations",
+      "ok": true
+    },
+    {
+      "name": "history JSON",
+      "ok": true
+    },
+    {
+      "name": "history persistence",
+      "ok": true
+    },
+    {
+      "name": "18 original pages",
+      "ok": true
+    },
+    {
+      "name": "original PDF exact",
+      "ok": true
+    },
+    {
+      "name": "seven settings",
+      "ok": true
+    },
+    {
+      "name": "English title",
+      "ok": true
+    },
+    {
+      "name": "dark theme",
+      "ok": true
+    },
+    {
+      "name": "390 lab no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "390 learn no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "390 practice no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "390 quiz no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "390 history no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "390 book no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "820 lab no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "820 learn no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "820 practice no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "820 quiz no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "820 history no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "820 book no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 lab no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 learn no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 practice no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 quiz no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 history no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "1366 book no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "no browser errors",
+      "ok": true
+    }
+  ],
+  "errors": []
+}
